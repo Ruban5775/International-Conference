@@ -191,7 +191,7 @@ button:focus {
 
 #mu-hero {
 	/* background-color: lightgreen; */
-	background-image: url("assets/images/back2.jpg");
+	background-image: url("back2.jpg");
 	display: inline;
 	float: left;
 	width: 100%;
